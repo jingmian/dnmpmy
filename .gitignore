@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+www/*
+!www/localhost/
+!www/site2
+!www/site1
+!www/thinkphp
+docker-compose.yml
+nohup.out
