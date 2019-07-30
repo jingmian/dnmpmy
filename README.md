@@ -1,4 +1,4 @@
-DNMP（Docker + Nginx + MySQL +PHP7/5）是一款全功能的**LNMP一键安装程序**。
+DNMP（Docker + Nginx + Redis+MySQL +PHP7/5）是一款全功能的**LNRMP一键安装程序**。
 
 DNMP项目特点：
 1. `100%`开源
